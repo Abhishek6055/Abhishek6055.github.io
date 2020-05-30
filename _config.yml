@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Abhishek Hiremath"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/abhi.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data/Business Analyst Portfolio"
   location         : "New York"
   email            : "ash605@nyu.edu"
@@ -261,4 +261,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
