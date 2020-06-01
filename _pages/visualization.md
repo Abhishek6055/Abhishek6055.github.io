@@ -4,7 +4,7 @@ permalink: /visualization/
 title: "Visualizations Posts in Various Posts "
 author_profile: true
 header:
-  image: "/images/V.jpg"
+  image: "/images/VV.jpg"
 ---
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
