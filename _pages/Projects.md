@@ -12,3 +12,24 @@ In the wake of the Global Crisis, uncertainty in the world economy led many firm
 The COVID-19 pandemic has generated enormous uncertainty around the world. My Project research shows that this increase in uncertainty is due to economic Crisis.
 
 [**Code and Presentation**](https://github.com/Abhishek6055/Corona-Virus-Vs-Economy)
+
+
+### Mobile Price Classification Using Random Forest
+Classification with RandomForestClassifier, I'll use a dataset of phone features to predict a phone's price range. The targets in the data have values:
+0 (low cost)
+1 (medium cost)
+2 (high cost)
+3 (very high cost)
+
+The features are things like
+
+1.battery_power: Total energy a battery can store in one time measured in mAh
+2.blue: Has bluetooth or not
+3.clock_speed: speed at which microprocessor executes instructions
+4.dual_sim: Has dual sim support or not
+5.fc: Front Camera mega pixels
+6.four_g: Has 4G or not
+
+My model did pretty well, correctly predicting around 86% of the price ranges in the validation data. It's often useful to look at where the model is failing with a confusion matrix which shows us how our model classified the inputs.
+
+[**Code and Presentation**](https://github.com/Abhishek6055/Classification.git)
