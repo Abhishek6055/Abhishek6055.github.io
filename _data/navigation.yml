@@ -6,6 +6,8 @@ main:
     url: /visualization/
   - title: "Projects"
     url: /Projects/
+  - title: "Case Studies"
+    url: /CaseStudy/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
