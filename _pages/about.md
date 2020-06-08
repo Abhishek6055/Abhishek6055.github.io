@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /CaseStudy/
-title: " Case Studies Engineering and Graduate School "
+permalink: /about/
+title: " About Me "
 author_profile: true
 header:
   image: "/images/about.jpg"
