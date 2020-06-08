@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Visualization"
-    url: /visualization/
+  - title: "Machine Learning and Insights"
+    url: /machinelearning/
   - title: "Projects"
     url: /Projects/
   - title: "Case Studies"

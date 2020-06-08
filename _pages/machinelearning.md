@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /visualization/
-title: "Visualizations Posts in Various Posts "
+permalink: /machinelearning/
+title: "Machne laerning and Insights"
 author_profile: true
 header:
   image: "/images/VV.jpg"
