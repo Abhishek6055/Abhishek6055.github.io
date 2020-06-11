@@ -20,19 +20,31 @@ I have worked in projects involving Data collection(web scraping), Database Mana
 
 These projects helped me grow my knowledge in tools and scripting languages like:
 
+|   Tools | Description |
+| ------ | ----------- |
+| Databases | SQL, SSIS, MySQL, Hive, DynamoDB, Google Big Query ,MongoDB |
+| Software | Tableau, PowerBI, Alteryx, OBI, QlikView, Weka, Visio, Google Analytics |
+
+
+
+
 Segment	Tools
 
 *Data Science scripting:	Python, R, SAS.
-*Databases:	SQL, SSIS, MySQL, Hive, DynamoDB, Google Big Query ,MongoDB
+
+*Databases:	SQL, SSIS, MySQL, Hive, DynamoDB, Google Big Query ,MongoDB.
+
 *Application Software:	Tableau, PowerBI, Alteryx, OBI, QlikView, Weka, Visio, Google Analytics.
+
 *Cloud Platforms:	AWS EC2, S3, Redshift, QuickSight, DynamoDB.
+
 *Management Tools:	Advance Excel and Power Point, JIRA, Confluence, Airtable, Google Suite, Github.
 
 ### **Link for my Resume**
 
 [**Code and Presentation**](https://github.com/Abhishek6055/resume.git)
 
-<span style="font-family:Papyrus; font-size:1em;">**Masters of Science in Management of Technology
+<span style="font-family:Papyrus; font-size:1.5em;">**Masters of Science in Management of Technology
 New York University, New York, USA.**</span>
 {: .text-center}
 
