@@ -22,19 +22,18 @@ These projects helped me grow my knowledge in tools and scripting languages like
 
 Segment	Tools
 
-##Data Science scripting:	Python, R, SAS.
-##Databases:	SQL, SSIS, MySQL, Hive, DynamoDB, Google Big Query ,MongoDB
-##Application Software:	Tableau, PowerBI, Alteryx, OBI, QlikView, Weka, Visio, Google Analytics.
-##Cloud Platforms:	AWS EC2, S3, Redshift, QuickSight, DynamoDB.
-##Management Tools:	Advance Excel and Power Point, JIRA, Confluence, Airtable, Google Suite, Github.
+*Data Science scripting:	Python, R, SAS.
+*Databases:	SQL, SSIS, MySQL, Hive, DynamoDB, Google Big Query ,MongoDB
+*Application Software:	Tableau, PowerBI, Alteryx, OBI, QlikView, Weka, Visio, Google Analytics.
+*Cloud Platforms:	AWS EC2, S3, Redshift, QuickSight, DynamoDB.
+*Management Tools:	Advance Excel and Power Point, JIRA, Confluence, Airtable, Google Suite, Github.
 
-### Link for my Resume
+### **Link for my Resume**
 
 [**Code and Presentation**](https://github.com/Abhishek6055/resume.git)
 
-
-Masters of Science in Management of Technology
-New York University, New York, USA.
+<span style="font-family:Papyrus; font-size:4em;">**Masters of Science in Management of Technology
+New York University, New York, USA.**</span>
 {: .text-center}
 
 In two years of my MS I learned and grew in key technical areas such as:
