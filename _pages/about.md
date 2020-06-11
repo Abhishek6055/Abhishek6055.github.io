@@ -32,7 +32,7 @@ Segment	Tools
 
 [**Code and Presentation**](https://github.com/Abhishek6055/resume.git)
 
-<span style="font-family:Papyrus; font-size:4em;">**Masters of Science in Management of Technology
+<span style="font-family:Papyrus; font-size:1em;">**Masters of Science in Management of Technology
 New York University, New York, USA.**</span>
 {: .text-center}
 
