@@ -24,21 +24,8 @@ These projects helped me grow my knowledge in tools and scripting languages like
 | ------ | ----------- |
 | Databases | SQL, SSIS, MySQL, Hive, DynamoDB, Google Big Query ,MongoDB |
 | Software | Tableau, PowerBI, Alteryx, OBI, QlikView, Weka, Visio, Google Analytics |
-
-
-
-
-Segment	Tools
-
-*Data Science scripting:	Python, R, SAS.
-
-*Databases:	SQL, SSIS, MySQL, Hive, DynamoDB, Google Big Query ,MongoDB.
-
-*Application Software:	Tableau, PowerBI, Alteryx, OBI, QlikView, Weka, Visio, Google Analytics.
-
-*Cloud Platforms:	AWS EC2, S3, Redshift, QuickSight, DynamoDB.
-
-*Management Tools:	Advance Excel and Power Point, JIRA, Confluence, Airtable, Google Suite, Github.
+| Cloud Platforms | AWS , Azure, DynamoDB |
+| Management Tools | Microsoft Office Suite, JIRA, Confluence, Airtable, Google Suite, Github , Google Ads , |
 
 ### **Link for my Resume**
 
