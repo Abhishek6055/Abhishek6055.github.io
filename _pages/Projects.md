@@ -33,3 +33,16 @@ The features are things like
 My model did pretty well, correctly predicting around 86% of the price ranges in the validation data. It's often useful to look at where the model is failing with a confusion matrix which shows us how our model classified the inputs.
 
 [**Code and Presentation**](https://github.com/Abhishek6055/Classification.git)
+
+
+### Customer Churn Using Logistic Regression in Apache Spark.
+
+[**Code and Presentation**](https://github.com/Abhishek6055/CustomerChurn.git)
+
+### Housing Price Classification using TensorFlow
+
+[**Code and Presentation**](https://github.com/Abhishek6055/HousingPrice-.git)
+
+### Recommendation System for movie using ALS
+
+[**Code and Presentation**](https://github.com/Abhishek6055/RecommendationSystem-.git)
