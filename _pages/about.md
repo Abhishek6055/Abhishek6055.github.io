@@ -27,9 +27,9 @@ These projects helped me grow my knowledge in tools and scripting languages like
 | Cloud Platforms | AWS , Azure, DynamoDB |
 | Management Tools | Microsoft Office Suite, JIRA, Confluence, Airtable, Google Suite, Github , Google Ads , |
 
-### **Link for my Resume**
+### *Link for my Resume*
 
-[**Code and Presentation**](https://github.com/Abhishek6055/resume.git)
+[**Resume**](https://github.com/Abhishek6055/resume.git)
 
 <span style="font-family:Papyrus; font-size:1.5em;">**Masters of Science in Management of Technology
 New York University, New York, USA.**</span>
@@ -37,12 +37,20 @@ New York University, New York, USA.**</span>
 
 In two years of my MS I learned and grew in key technical areas such as:
 
-Statistics for Data Analytics: Exploring underlying mathematical foundation of descriptive statistics, probability, and hypothesis testing, also covered regression analysis and time series analysis with an emphasis on model formulation and interpretation of results.
-Business Intelligence Analysis: Concepts and best practices for corporate Dashboard reporting with use of BI tools like Advance excel, Power BI, Tableau and Alteryx.
-Data Analytics with R and Python: Solving business problem case with making use of available data and best practices in Descriptive, Predictive, and Prescriptive analysis.
-Data Visualization: Story telling with aesthetically pleasing Visualization and best practices to narrate a data story to varying audiences.
-Data Mining: Machine Learning concepts and practices used in large organizations to make the best use of growing data availability.
-Data Engineering: Theoretical and practical implementation of Database management and Graph Network theory with business cases in different domains ranging from economics and agriculture to stock market.
-Corporate Finance and Accounting: Advance concepts of Finance and Accounting with financial analysis and modelling on real world case studies dealing with merger and acquisitions and forecast value evaluation. Case Study
-Industrial Economics and strategy: Studied concepts and impacts of Macro & Micro economy, consumer behavior, economic value creation and Value-based strategies. Learned analysis techniques like Five Forces Model, Demand and Supply Analysis, Porter’s Competitive Strategy Framework PEST analysis and SWOT analysis. Netflix Research Paper
-Business Courses: Project Management (SCRUM Practices and understanding Waterfall and Agile methodologies), Global Innovation (Strategies to manage and coordinate Global projects) Target Global Business Research Paper, Management of Information System, Organizational behavior.
+**Statistics for Data Analytics**: Exploring underlying mathematical foundation of descriptive statistics, probability, and hypothesis testing, also covered regression analysis and time series analysis with an emphasis on model formulation and interpretation of results.
+
+**Business Intelligence Analysis**: Concepts and best practices for corporate Dashboard reporting with use of BI tools like Advance excel, Power BI, Tableau and Alteryx.
+
+**Data Analytics with R and Python**: Solving business problem case with making use of available data and best practices in Descriptive, Predictive, and Prescriptive analysis.
+
+**Data Visualization**: Story telling with aesthetically pleasing Visualization and best practices to narrate a data story to varying audiences.
+
+**Data Mining**: Machine Learning concepts and practices used in large organizations to make the best use of growing data availability.
+
+**Data Engineering**: Theoretical and practical implementation of Database management and Graph Network theory with business cases in different domains ranging from economics and agriculture to stock market.
+
+**Corporate Finance and Accounting**: Advance concepts of Finance and Accounting with financial analysis and modelling on real world case studies dealing with merger and acquisitions and forecast value evaluation. Case Study
+
+**Industrial Economics and strategy**: Studied concepts and impacts of Macro & Micro economy, consumer behavior, economic value creation and Value-based strategies. Learned analysis techniques like Five Forces Model, Demand and Supply Analysis, Porter’s Competitive Strategy Framework PEST analysis and SWOT analysis. Netflix Research Paper
+
+**Business Courses**: Project Management (SCRUM Practices and understanding Waterfall and Agile methodologies), Global Innovation (Strategies to manage and coordinate Global projects) Target Global Business Research Paper, Management of Information System, Organizational behavior.
