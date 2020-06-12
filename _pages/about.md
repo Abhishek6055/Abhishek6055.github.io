@@ -7,7 +7,7 @@ header:
   image: "/images/about.jpg"
 ---
 ### About me
-Hello Everyone, I am Abhishek Hiremath.
+**Hello Everyone, I am Abhishek Hiremath.**
 {: .text-center}
 
 I am a Data Science enthusiast with a curiosity to look beyond the known and a hunger for learning. I was introduced to data analytics in an Economics course in my under graduation where I got invested in data collection and analysis which was majorly concerned with customer behavior analysis, macro and micro market impacts. Since then I have completely submerged myself into this exciting and unending roller-coaster of learning and practicing concepts of Analytics.
