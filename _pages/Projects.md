@@ -7,14 +7,14 @@ header:
   image: "/images/Project.jpg"
 ---
 
-### COVID-19 Vs Economy
+## COVID-19 Vs Economy
 In the wake of the Global Crisis, uncertainty in the world economy led many firms to reassess their business models. Rather than relying on global supply chains, an increasing number of firms invested in robots, which prompted a renaissance of manufacturing in industrialised countries. This column argues that changes in the world economy due to COVID-19 make a V-shaped recovery from the coming recession unlikely. Instead, COVID-19 will accelerate the process begun after the Global Crisis by encouraging firms to re-shore activity back to rich countries
 The COVID-19 pandemic has generated enormous uncertainty around the world. My Project research shows that this increase in uncertainty is due to economic Crisis.
 
 [**Code and Presentation**](https://github.com/Abhishek6055/Corona-Virus-Vs-Economy)
 
 
-### Mobile Price Classification Using Random Forest
+## Mobile Price Classification Using Random Forest
 Classification with RandomForestClassifier, I'll use a dataset of phone features to predict a phone's price range. The targets in the data have values:
 * 0 (low cost)
 * 1 (medium cost)
@@ -35,14 +35,18 @@ My model did pretty well, correctly predicting around 86% of the price ranges in
 [**Code and Presentation**](https://github.com/Abhishek6055/Classification.git)
 
 
-### Customer Churn Using Logistic Regression in Apache Spark.
+## Customer Churn Using Logistic Regression in Apache Spark.
 
 [**Code and Presentation**](https://github.com/Abhishek6055/CustomerChurn.git)
 
-### Housing Price Classification using TensorFlow
+## Housing Price Classification using TensorFlow
 
 [**Code and Presentation**](https://github.com/Abhishek6055/HousingPrice-.git)
 
-### Recommendation System for movie using ALS
+## Recommendation System for movie using ALS
 
 [**Code and Presentation**](https://github.com/Abhishek6055/RecommendationSystem-.git)
+
+## Tweets analysis using Spark Streaming
+
+[**Code and Presentation**](https://github.com/Abhishek6055/SparkStreaming-.git)

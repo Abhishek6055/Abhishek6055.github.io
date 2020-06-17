@@ -23,7 +23,7 @@ These projects helped me grow my knowledge in tools and scripting languages like
 | Cloud Platforms | AWS , Azure, DynamoDB |
 | Management Tools | Microsoft Office Suite, JIRA, Confluence, Airtable, Google Suite, Github , Google Ads , |
 
-### *Link for my Resume*
+## *Link for my Resume*
 
 [**Resume**](https://github.com/Abhishek6055/resume.git)
 
