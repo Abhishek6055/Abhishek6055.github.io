@@ -6,6 +6,9 @@ author_profile: true
 header:
   image: "/images/case.png"
 ---
+# *AWS Certified Cloud Practitioner*
+<img src="{{ site.url }}{{ site.baseurl }}//images/AWS.jpg" alt="AWS Certified Cloud Practitioner">
+
 # *Python for Data Science and Machine Learning*
 <img src="{{ site.url }}{{ site.baseurl }}//images/Python.jpg" alt="Python for Data Science and Machine Learning">
 
